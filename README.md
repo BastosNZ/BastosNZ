@@ -1,6 +1,6 @@
 # 👨‍🎓 Enzo Bastos
 
-**`Desenvolvedor Junior`**
+**`Junior Developer`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-bastos-193341388)  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nzbastos)
 
