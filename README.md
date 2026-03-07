@@ -2,7 +2,7 @@
 
 **`Junior Developer`**
 
-My name is Enzo Bastos da Silveira, I'm 20 years old, and I'm from Brasília. I'm currently studying Software Engineering at UniCeub.
+My name is Enzo Bastos da Silveira, I'm 21 years old, and I'm from Brasília. I'm currently studying Software Engineering at UniCeub.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-bastos-193341388)  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nzbastos)
 
