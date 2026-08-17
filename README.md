@@ -23,6 +23,7 @@ Software Engineering student at UniCEUB and full-stack intern at [Adapta](https:
 **Backend & Data**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
@@ -49,10 +50,10 @@ Software Engineering student at UniCEUB and full-stack intern at [Adapta](https:
 
 | Project | Description | Stack |
 |---|---|---|
-| [dress](https://github.com/BastosNZ/dress) | Store management system covering inventory, customers, products, plus charts and reports. Academic project. | JavaScript |
-| [medtime-cli](https://github.com/BastosNZ/medtime-cli) | Command-line tool that schedules medication reminders. Academic project. | Python |
-| [portfolio](https://github.com/BastosNZ/portfolio) | Personal site collecting academic and personal projects | HTML, CSS, JS |
-| [portfolio-hub-gemini](https://github.com/BastosNZ/portfolio-hub-gemini) | Secure deployment exercise covering branch protection, secrets management and access governance | GitHub Actions |
+| [dress](https://github.com/BastosNZ/dress) | Clothing store management system: REST API with JWT auth, layered architecture and a Streamlit frontend. Academic group project. | Node.js, Express, MySQL, Python |
+| [medtime-cli](https://github.com/BastosNZ/medtime-cli) | CLI to register, list and remove medication reminders. Tested with pytest, linted with ruff. | Python |
+| [portfolio](https://github.com/BastosNZ/portfolio) | Personal portfolio site | HTML, CSS, JS |
+| [portfolio-hub-gemini](https://github.com/BastosNZ/portfolio-hub-gemini) | Secure deployment study: branch protection, secrets management and access governance | GitHub |
 
 ---
 
