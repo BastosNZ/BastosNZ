@@ -40,7 +40,7 @@ Software Engineering student at UniCEUB and full-stack intern at [Adapta](https:
 
 ## Currently
 
-- Shipping features across the stack in a production codebase at Adapta
+- Shipping features across the stack in a production codebase at [Adapta](https://adapta.org)
 - Studying backend development: Spring Security, JWT, OpenAPI
 - Coursework in data structures, requirements engineering and calculus
 
@@ -48,13 +48,21 @@ Software Engineering student at UniCEUB and full-stack intern at [Adapta](https:
 
 ## Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [dress](https://github.com/BastosNZ/dress) | Clothing store management system: REST API with JWT auth, layered architecture and a Streamlit frontend. Academic group project. | Node.js, Express, MySQL, Python |
-| [medtime-cli](https://github.com/BastosNZ/medtime-cli) | CLI to register, list and remove medication reminders. Tested with pytest, linted with ruff. | Python |
-| [portfolio](https://github.com/BastosNZ/portfolio) | Personal portfolio site | HTML, CSS, JS |
-| [portfolio-hub-gemini](https://github.com/BastosNZ/portfolio-hub-gemini) | Secure deployment study: branch protection, secrets management and access governance | GitHub |
+**[dress](https://github.com/BastosNZ/dress)** · `Node.js` `Express` `MySQL` `Streamlit`
+
+Clothing store management system. REST API with JWT authentication behind an auth middleware, a layered backend (config, models, middleware) and relational modeling of users, clients, products and sales, with a Streamlit frontend for the store operator. Academic group project.
+
+**[medtime-cli](https://github.com/BastosNZ/medtime-cli)** · `Python` `pytest` `ruff`
+
+Command-line tool to register, list and remove medication reminders. An exercise in keeping a small Python project tidy: CLI and domain logic in separate modules, unit tests with pytest and linting with ruff.
+
+**[portfolio](https://github.com/BastosNZ/portfolio)** · `HTML` `CSS` `JavaScript`
+
+My portfolio site, live at [bastosnz.github.io/portfolio](https://bastosnz.github.io/portfolio/). Hand-written with no framework and no build step: responsive layout and a tabbed section wired up with ARIA roles and a live region. Deployed on GitHub Pages.
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=BastosNZ&show_icons=true&theme=bear&hide_title=true&hide=stars" alt="GitHub stats" width="450" />
+## Get in touch
+
+Open to conversations about full-stack work. Fastest way to reach me: [enzobastos25@gmail.com](mailto:enzobastos25@gmail.com) or [LinkedIn](https://www.linkedin.com/in/enzo-bastos-193341388).
+
